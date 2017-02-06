@@ -5,9 +5,9 @@ import java.util.Arrays;
 public class ArraySection {
 
 	public ArraySection(){
-		getArraySection();
-		getCreation();
-		getMultidim();
+		//getArraySection();
+		//getCreation();
+		//getMultidim();
 		getCopying();
 		getManips();
 		getOtherManips();

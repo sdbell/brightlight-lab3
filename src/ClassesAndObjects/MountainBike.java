@@ -9,9 +9,6 @@ public class MountainBike extends Bicycle{
 		System.out.println("See inside code fro demo of some concepts.");
 		System.out.println("http://docstore.mik.ua/orelly/java-ent/jnut/ch03_04.htm");
 		System.out.println("");
-		System.out.println("Parameters refers to list of variables in a method declaration.");
-		System.out.println("Arguments are the actual values that are passed in when the method is invoked.");
-		
 		
 	}
 	
